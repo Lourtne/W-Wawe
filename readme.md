@@ -4,7 +4,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-Перейдите по  [ссылке]([lourtne.github.io/W-Wawe/](https://lourtne.github.io/W-Wawe/)) на сайт.
+Перейдите по  [ссылке](https://lourtne.github.io/W-Wawe/) на сайт.
 
 > Используются "чистые" HTML, CSS и JS.
 
